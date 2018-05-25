@@ -1,7 +1,7 @@
 {
   "name": "LxiBot",
   "description": "Official Bot of Lxi Inc.",
-  "version": "0.0.0",
+  "version": "5.7.1",
   "main": "app_compilated.js",
   "scripts": {
     "start": "node app_compilated.js"
