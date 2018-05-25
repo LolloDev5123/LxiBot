@@ -1,1 +1,2 @@
 worker: node app_compilated.js
+web: npm start
