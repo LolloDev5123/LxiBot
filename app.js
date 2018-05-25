@@ -13,7 +13,7 @@ const config = require("./config.json");
 
 client.on("ready", () => {
   // This event will run if the bot starts, and logs in, successfully.
-  console.log(`Il bot è startato, con ${client.users.size} utenti, in ${client.channels.size} canali da ${client.guilds.size} .`); 
+  console.log(`Il bot Ã¨ startato, con ${client.users.size} utenti, in ${client.channels.size} canali da ${client.guilds.size} .`); 
   // Example of changing the bot's playing game to something useful. `client.user` is what the
   // docs refer to as the "ClientUser".
   client.user.setActivity(`l+help`);
@@ -167,5 +167,5 @@ mybot.on("Hello, i am the Official Bot of Lxi Inc.", function(message) {
     }
 });
 
-mybot.loginWithToken(config.token);");
+mybot.loginWithToken(config.token);
            
