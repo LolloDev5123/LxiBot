@@ -143,4 +143,4 @@ client.on('message', message => {
 });
 
 // THIS  MUST  BE  THIS  WAY
-client.login("NDQ4ODU4MDM3Mzk5MzIyNjM1.DenZ2Q.4j1thgxrWBvyiFJKvk9S7Km9eyw");
+client.login("NDQ4ODU4MDM3Mzk5MzIyNjM1.DeoA_A.wf3arc658Zcz8clr4ZxFZdLnTkQ");
