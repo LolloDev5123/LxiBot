@@ -1,13 +1,1 @@
-{
-  "name": "LxiBot",
-  "description": "Official Bot of Lxi Inc.",
-  "version": "5.7.1",
-  "main": "app_compilated.js",
-  "scripts": {
-    "start": "node app_compilated.js"
-  },
-  "dependencies": {
-    "discord.js": "11.1.0",
-    "request": "2.81.0"
-  }
-}
+lmao
