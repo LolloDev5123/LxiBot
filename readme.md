@@ -1,4 +1,4 @@
-# The Perfect Lil' Bot
+# LxiBot
 
 This bot example is the combined work of members of the Discord.js and Idiot Guide's community.
 It attempts to provide a "complete" starter example of a simple, one-file bot, with comments and
